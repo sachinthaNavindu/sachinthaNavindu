@@ -29,7 +29,7 @@ Passionate about building scalable backend APIs and crafting clean, user-friendl
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="[www.linkedin.com/in/sachintha-navindu-fernando](https://www.linkedin.com/in/sachintha-navindu-fernando/)" target="_blank">
+  <a href="https://www.linkedin.com/in/sachintha-navindu-fernando" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
          alt="LinkedIn" height="30" width="40"/>
   </a>
