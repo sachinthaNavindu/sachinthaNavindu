@@ -33,7 +33,7 @@ Passionate about building scalable backend APIs and crafting clean, user-friendl
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
          alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://instagram.com/sa_21_ch" target="_blank">
+  <a href="https://www.instagram.com/vo_xx__22?igsh=MTFuYW9iZXcybzQ0cw==" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"
          alt="Instagram" height="30" width="40"/>
   </a>
